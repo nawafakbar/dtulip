@@ -19,6 +19,7 @@
     
     {{-- Custom CSS DTulip --}}
     <link rel="stylesheet" href="{{ asset('Assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ asset('Assets/css/chatbot.css') }}">
 
     <style>
         /* CSS Tambahan agar Navbar tidak menumpuk konten di halaman selain Home */
@@ -60,7 +61,6 @@
 </head>
 
 <body>
-
     {{-- TOMBOL BACK TO TOP & WHATSAPP --}}
     <button id="backToTopBtn" class="back-to-top">
         <a href="https://wa.me/085759873301?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." 
@@ -217,6 +217,39 @@
     
     {{-- Custom Script DTulip --}}
     <script src="{{ asset('Assets/js/script.js') }}"></script>
+    <script src="{{ asset('Assets/js/chatbot.js') }}"></script>
+    <script>
+        function toggleChatbot() {
+        const popup = document.getElementById('chatbotPopup');
+        popup.style.display = popup.style.display === 'flex' ? 'none' : 'flex';
+    }
+
+    function sendChat() {
+        const input = document.getElementById('chatbotInput');
+        const body = document.getElementById('chatbotBody');
+        const message = input.value.trim();
+
+        if (!message) return;
+
+        body.innerHTML += `<div class="user-message">${message}</div>`;
+        input.value = '';
+        body.scrollTop = body.scrollHeight;
+
+        fetch("{{ route('chatbot.send') }}", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "X-CSRF-TOKEN": "{{ csrf_token() }}"
+            },
+            body: JSON.stringify({ message })
+        })
+        .then(res => res.json())
+        .then(data => {
+            body.innerHTML += `<div class="bot-message">${data.reply}</div>`;
+            body.scrollTop = body.scrollHeight;
+        });
+    }
+    </script>
     
     @stack('scripts')
 </body>
