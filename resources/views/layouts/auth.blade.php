@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title') - DTupil Cake & Cookies</title>
+    <title>@yield('title') - De'Tulip Cake & Cookies</title>
     <link rel="icon" type="image/png" href="{{ asset('Assets/image/logomain.png') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('user-assets/css/style.css') }}">

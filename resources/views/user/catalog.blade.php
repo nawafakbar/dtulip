@@ -17,10 +17,10 @@
         <div class="home-box">
             <div class="content">
                 <div class="content-header">
-                    <h5>Semua Produk Dtulip Cake & Cookies</h5>
+                    <h5>Semua Produk De'tulip Cake & Cookies</h5>
                     <h1>Hai!, Selamat Datang</h1>
                     <p>
-                        Temukan berbagai pilihan kue kering, kue basah, dan hampers spesial dari Dtulip Cake & Cookies.
+                        Temukan berbagai pilihan kue kering, kue basah, dan hampers spesial dari De'tulip Cake & Cookies.
                         Semua produk kami dibuat dengan bahan berkualitas, rasa terbaik, dan penuh perhatian di setiap
                         prosesnya.
                         Cocok untuk camilan harian, acara keluarga, hingga hadiah untuk orang terkasih.

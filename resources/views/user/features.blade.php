@@ -19,10 +19,10 @@
             
             <div class="content">
                 <div class="content-header">
-                    <h5>Kenapa memilih Dtulip?</h5>
+                    <h5>Kenapa memilih De'tulip?</h5>
                     <h1>Kue Lezat untuk Setiap Momen</h1>
                     <p>
-                        Dtulip Cake & Cookies menghadirkan berbagai pilihan kue kering, kue basah,
+                        De'tulip Cake & Cookies menghadirkan berbagai pilihan kue kering, kue basah,
                         dan hampers premium yang dibuat dengan bahan berkualitas dan penuh cinta.
                         <a href="#portofolio" class="text-warning">Klik di sini</a> untuk melihat produk unggulan kami.
                     </p>
@@ -52,12 +52,12 @@
                                         <span class="card_price"><i class='bx bx-cookie'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Kue Kering Premium</h2>
+                                        <h2 class="card_title text-black">Kue Kering Premium</h2>
                                         <div class="card_text">
                                             <p>
                                                 Aneka kue kering favorit seperti nastar, kastengel, hingga cookies
                                                 modern kami dibuat dengan resep pilihan dan proses produksi yang higienis 
-                                                untuk menjaga kualitas rasa di setiap gigitan. Dtulip Cake & Cookies
+                                                untuk menjaga kualitas rasa di setiap gigitan. De'tulip Cake & Cookies
                                                 menggunakan bahan-bahan premium seperti mentega berkualitas, keju
                                                 pilihan, dan cokelat terbaik sehingga menghasilkan tekstur yang lembut, 
                                                 renyah, dan konsisten.
@@ -79,10 +79,10 @@
                                         <span class="card_price"><i class='bx bx-cake'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Kue Basah Harian</h2>
+                                        <h2 class="card_title text-black">Kue Basah Harian</h2>
                                         <div class="card_text">
                                             <p>
-                                                Kue basah Dtulip Cake & Cookies dibuat dengan resep rumahan pilihan yang
+                                                Kue basah De'tulip Cake & Cookies dibuat dengan resep rumahan pilihan yang
                                                 telah teruji menghasilkan cita rasa lembut, manis yang pas, dan tekstur 
                                                 yang selalu fresh setiap hari. Tanpa pengawet berlebihan, sehingga aman 
                                                 dan nikmat untuk dinikmati semua usia. Cocok disajikan untuk berbagai 
@@ -104,10 +104,10 @@
                                         <span class="card_price"><i class='bx bx-food-menu'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Paket Kue & Order</h2>
+                                        <h2 class="card_title text-black">Paket Kue & Order</h2>
                                         <div class="card_text">
                                             <p>
-                                                Dtulip Cake & Cookies menyediakan berbagai pilihan paket kue kering dan
+                                                De'tulip Cake & Cookies menyediakan berbagai pilihan paket kue kering dan
                                                 kue basah yang dapat disesuaikan dengan kebutuhan Anda. Setiap paket dirancang
                                                 untuk memberikan kemudahan bagi pelanggan yang ingin memesan kue dalam 
                                                 jumlah tertentu tanpa mengurangi kualitas rasa dan tampilan.
@@ -128,7 +128,7 @@
                                         <span class="card_price"><i class='bx bx-edit'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Custom Order</h2>
+                                        <h2 class="card_title text-black">Custom Order</h2>
                                         <div class="card_text">
                                             <p>
                                                 Bebas melakukan request jumlah, varian rasa, hingga jenis kemasan sesuai
@@ -152,7 +152,7 @@
                                         <span class="card_price"><i class='bx bx-check-shield'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Bahan Berkualitas</h2>
+                                        <h2 class="card_title text-black">Bahan Berkualitas</h2>
                                         <div class="card_text">
                                             <p>
                                                 Kami hanya menggunakan bahan-bahan pilihan yang halal, segar, dan
@@ -176,11 +176,11 @@
                                         <span class="card_price"><i class='bx bx-smile'></i></span>
                                     </div>
                                     <div class="card_content">
-                                        <h2 class="card_title">Pelayanan Ramah</h2>
+                                        <h2 class="card_title text-black">Pelayanan Ramah</h2>
                                         <div class="card_text">
                                             <p>
                                                 Kami siap membantu Anda dengan pelayanan yang cepat, ramah, dan
-                                                responsif di setiap proses pemesanan. Tim Dtulip Cake & Cookies selalu
+                                                responsif di setiap proses pemesanan. Tim De'tulip Cake & Cookies selalu
                                                 berusaha memberikan pengalaman belanja yang nyaman, mulai dari
                                                 konsultasi produk hingga proses pengiriman.
                                             </p>

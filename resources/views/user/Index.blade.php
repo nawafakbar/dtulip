@@ -11,7 +11,7 @@
             <div class="content">
                 <div class="content-header">
                     <h5>UMKM Lokal - Kota Padang</h5>
-                    <h1>Dtulip Cake & Cookies</h1>
+                    <h1>De'tulip Cake & Cookies</h1>
                     <p>Menyediakan berbagai aneka kue kering, kue basah, dan special homemade dessert berkualitas
                         premium.
                         Dibuat fresh setiap hari untuk menghadirkan rasa terbaik bagi keluarga Anda.</p>
@@ -32,9 +32,9 @@
         <h4 class="label ms-3">katalog produk</h4>
         <div class="container">
             <div class="container-box">
-                <h2 class="heading">Dtulip Cake & Cookies</h2>
+                <h2 class="heading">De'tulip Cake & Cookies</h2>
                 <div class="content">
-                    <p>Selamat datang di website resmi Dtulip Cake & Cookies.
+                    <p>Selamat datang di website resmi De'tulip Cake & Cookies.
                         Temukan berbagai pilihan cookies premium, cake lembut homemade, hingga paket hampers untuk
                         hadiah spesial.
                         Semua dibuat dengan bahan pilihan dan tanpa pengawet.</p>
@@ -124,7 +124,7 @@
 
     {{-- KENAPA HARUS DTULIP --}}
     <section class="article">
-        <h4 class="label ms-3">kenapa memilih Dtulip</h4>
+        <h4 class="label ms-3">kenapa memilih De'tulip</h4>
         <h2 class="heading ms-3">Keunggulan Produk Kami</h2>
         <div class="container">
             <div class="latest-article">
@@ -133,7 +133,7 @@
                 <h3>Setiap produk dibuat fresh, higienis, dan berkualitas premium untuk keluarga Anda.</h3>
                 <div class="author">
                     <img src="{{ asset('Assets/image/logomain.png') }}" alt="">
-                    <p>Dtulip Cake & Cookies</p>
+                    <p>De'tulip Cake & Cookies</p>
                 </div>
             </div>
             <div class="more-article">

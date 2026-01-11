@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     
-    <title>@yield('title', 'Dtulip Cake & Cookies')</title>
+    <title>@yield('title', 'De`tulip Cake & Cookies')</title>
     
     {{-- Favicon (Ganti logo di folder Assets/image) --}}
     <link rel="icon" type="image/png" href="{{ asset('Assets/image/logomain.png') }}">
@@ -63,7 +63,7 @@
 <body>
     {{-- TOMBOL BACK TO TOP & WHATSAPP --}}
     <button id="backToTopBtn" class="back-to-top">
-        <a href="https://wa.me/085759873301?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." 
+        <a href="https://wa.me/081277957374?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." 
         target="_blank" 
         class="whatsapp-btn">
             <i class="fab fa-whatsapp"></i>
@@ -81,7 +81,7 @@
                         <i class="fa fa-bars"></i>
                     </div>
                     <img src="{{ asset('Assets/image/logomain.png') }}" alt="Logo" style="width: 30px; gap: 0.2rem;" id="logo_hilang">
-                    <h5 style="font-weight: 500;" class="mt-2">Dtulip Cake & Cookies</h5>
+                    <h5 style="font-weight: 500;" class="mt-2">De'tulip Cake & Cookies</h5>
                 </div>
                 
                 <div class="menu">
@@ -169,15 +169,15 @@
         <section class="footer">
             <div class="container">
                 <div class="detail">
-                    <h3>Dtulip Cake & Cookies</h3>
+                    <h3>De'tulip Cake & Cookies</h3>
                     <a href="" style="text-align: justify; margin-bottom: 20px;">
                         Kota Padang, Sumatera Barat – Produksi & pengiriman kue ke seluruh wilayah sekitar.
                     </a>
                     <h5>contact us</h5>
-                    <a href="mailto:dtulipcakeandcookies@mail.com">dtulipcakeandcookies@mail.com</a>
+                    <a href="mailto:dtulipcakeandcookies@mail.com">bundamai@gmail.com</a>
                     <div class="social">
-                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                        <a href="https://www.instagram.com/bgd_hydrofarm/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/share/1BuujAx9fv/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="https://www.instagram.com/detulipp/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
                     </div>
                 </div>
 
@@ -191,7 +191,7 @@
                 <div class="about-us">
                     <h4>bantuan</h4>
                     <li><a href="#">FAQ</a></li>
-                    <li><a href="#">Lokasi Kami</a></li>
+                    <li><a href="https://www.google.com/maps/place/0%C2%B052'09.9%22S+100%C2%B020'49.7%22E/@-0.8694199,100.3445549,759m/data=!3m2!1e3!4b1!4m4!3m3!8m2!3d-0.8694199!4d100.3471298?hl=en&entry=ttu&g_ep=EgoyMDI2MDEwNy4wIKXMDSoASAFQAw%3D%3D" target="_blank">Lokasi Kami</a></li>
                 </div>
 
                 <div class="about-us">
@@ -203,7 +203,7 @@
 
             <div class="copyright">
                 <div>
-                    &copy;2025 - Dtulip Cake & Cookies. All rights reserved.
+                    &copy;2025 - De'tulip Cake & Cookies. All rights reserved.
                 </div>
             </div>
         </section>
