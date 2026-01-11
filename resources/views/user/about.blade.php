@@ -123,24 +123,19 @@
                         <ul>
                             <li>
                                 <strong>📍 Alamat Produksi</strong>
-                                Jl. [Nama Jalan Lengkap], Kec. [Kecamatan], Kota Padang, Sumatera Barat.
+                                48JW+6VJ Parupuk Tabing, Padang City, West Sumatra
                             </li>
                             <li>
                                 <strong>📱 Hubungi Kami (WhatsApp)</strong>
-                                <a href="https://wa.me/6281234567890" target="_blank">
-                                    +62 812-3456-7890 (Klik untuk Chat)
+                                <a href="https://wa.me/6281277957374?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." target="_blank">
+                                    +62 812-7795-7374 (Klik untuk Chat)
                                 </a>
                             </li>
                             <li>
                                 <strong>📷 Instagram</strong>
-                                <a href="https://instagram.com/nama_akun_ig" target="_blank">
-                                    @nama_akun_ig
+                                <a href="https://instagram.com/detulipp" target="_blank">
+                                    @detulipp
                                 </a>
-                            </li>
-                            <li>
-                                <strong>⏰ Jam Operasional</strong>
-                                Senin - Sabtu: 08.00 - 17.00 WIB<br>
-                                Minggu: Tutup (By Appointment)
                             </li>
                         </ul>
                     </div>
@@ -152,7 +147,7 @@
                             Caranya: Buka Google Maps > Cari Lokasi > Share > Embed a map > Copy HTML 
                         --}}
                         <iframe 
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3100492018316!2d100.3542!3d-0.9145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2fd4b942e2b117bb%3A0x5847b97371c67a3!2sPadang%2C%20Kota%20Padang%2C%20Sumatera%20Barat!5e0!3m2!1sid!2sid!4v1625634567890!5m2!1sid!2sid" 
+                            src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3303.6879104907543!2d100.344554874965!3d-0.8694198991221492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2s!5e1!3m2!1sen!2sid!4v1768117626333!5m2!1sen!2sid" 
                             width="100%" 
                             height="350" 
                             style="border:0; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" 

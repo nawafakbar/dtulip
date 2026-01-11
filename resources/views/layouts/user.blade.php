@@ -63,7 +63,7 @@
 <body>
     {{-- TOMBOL BACK TO TOP & WHATSAPP --}}
     <button id="backToTopBtn" class="back-to-top">
-        <a href="https://wa.me/081277957374?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." 
+        <a href="https://wa.me/6281277957374?text=Halo%20kak,%20saya%20mau%20tanya%20tentang%20produk%20di%20Dtulip%20Cake%20%26%20Cookies." 
         target="_blank" 
         class="whatsapp-btn">
             <i class="fab fa-whatsapp"></i>
